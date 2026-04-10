@@ -1,7 +1,6 @@
 #include <iostream>
 
 int main() {
-  // Write code here 💖
   std::string name = "Lady Bird";
   int grade = 12;
   double gpa = 12;
